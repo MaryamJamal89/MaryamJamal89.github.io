@@ -2,14 +2,16 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Senior computer science (CS) student at IAU
 
-### More Information
+### About Me
 
-A place to include any other types of information that you'd like to include about yourself.
+Ambitious and highly creative student seeks a challenging position in the area of the computer science for enriching and utilizing my skills and abilities, learn new technologies and achieving professional growth while being innovative and flexible, and adding valuable assets to the organization as a creative member.
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+### Contact Me
+
+[maryamalayaat@gmail.com](mailto:email@domain.com)
